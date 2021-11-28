@@ -1,0 +1,6 @@
+Metodologia de Regresion,
+Metodologia RNN: Inicios del proyecto
+
+Mendeley: articulos del mendeley
+
+Articulos-en/es: articuos recopilados en ingles y español
